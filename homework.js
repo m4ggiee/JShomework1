@@ -9,7 +9,7 @@ console.log(name);
 
 
 // 3
-let isStudent = "true";
+let isStudent = true;
 console.log(isStudent);
 
 
